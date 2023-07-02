@@ -1,0 +1,70 @@
+.home_container {
+    height: 100vh;
+    /* background-color: red !important; */
+
+    background: #050508;
+   background-color: black;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-image: url('../../assets/Main.png');
+    background-size: cover;
+}
+.main_para{
+    color: #FFF;
+font-size: 90px;
+font-family: Chakra Petch;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -2px;
+
+}
+.main_para2{
+    /* position: relative;
+    left: 60px; */
+    padding-left: 55px;
+}
+
+.social_icons{
+    width: 37px;
+    margin: 10px 0px;
+    padding: 10px;
+    border: 0.1px solid rgb(255, 255, 255, 0.6);
+    /* height: 15px; */
+}
+
+/* 2nd row */
+
+.para1{
+    color: rgba(255, 255, 255, 0.70);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.16px;
+}
+.explore_btn{
+    margin-left: 10px;
+    width: 218px;
+    height: 37px;
+    background-color: transparent;
+
+    border: none;
+    border: 1px solid rgb(255, 255, 255, 0.35);
+    color: white;
+    font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: -0.42px;
+text-transform: uppercase;
+}
+.para2{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.16px;
+}
